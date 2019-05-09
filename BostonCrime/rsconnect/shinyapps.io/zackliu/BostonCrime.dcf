@@ -1,0 +1,12 @@
+name: BostonCrime
+title: BostonCrime
+username:
+account: zackliu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 882235
+bundleId: 2029998
+url: https://zackliu.shinyapps.io/BostonCrime/
+when: 1555954008.96712
+asMultiple: FALSE
+asStatic: FALSE

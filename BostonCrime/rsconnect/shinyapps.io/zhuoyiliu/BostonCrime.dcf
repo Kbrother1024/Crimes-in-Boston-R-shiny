@@ -1,0 +1,13 @@
+name: BostonCrime
+title: BostonCrime
+username:
+account: zhuoyiliu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 882277
+bundleId: 2035713
+url: https://zhuoyiliu.shinyapps.io/BostonCrime/
+when: 1556113130.14909
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|cleanProcess.R
